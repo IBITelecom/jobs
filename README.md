@@ -7,3 +7,4 @@ Somos pioneiros em FIBRA ÓTICA (FTTH) no leste mineiro. Nossa missão é trazer
 ## Code Challenge
 
 - [ ] desenvolver front-end de CRUD de planos de internet
+- [ ] desenvolver front-end de busca de planos de internet
