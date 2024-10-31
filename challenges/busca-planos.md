@@ -2,22 +2,22 @@
 
 ## Objetivo
 
-Desenvolver uma página interativa de "Catálogo de Planos" para a IBI, onde os usuários podem explorar e filtrar os planos. A página deve permitir que o usuário interaja com o catálogo usando filtros dinâmicos e uma barra de busca, proporcionando uma experiência de navegação rica e intuitiva. O filtro deve ser em tempo real.
+Desenvolver uma página interativa de "Catálogo de Planos" para a IBI, onde os usuários podem explorar e filtrar os planos. A página deve oferecer uma experiência intuitiva, com filtros dinâmicos e barra de busca para navegação rica e fluida.
 
 ### Funcionalidades
 
-- **Listagem de planos**: exibir uma lista de planos dentro de uma tabela, de forma visual, com o nome e descrição do plano. A lista inicial pode ser populada com dados estáticos (com base no prótipo funcional) ou gerados aleatoriamente para simular o catálogo.
-- **Filtro por favorito**: implementar uma seção de filtro dinâmico que permite ao usuário indicar se quer exibir um plano favorito ou não. A lista deve ser renderizada automaticamente com base nos planos exibidos.
-- **Busca por nome**: adicionar uma barra de busca que permita ao usuário digitar palavras-chave para encontrar planos específicos por nome. A busca deve ser dinâmica, filtrando os planos enquanto o usuário digita.
-- **Favoritar planos**: implementar um ícone de “favoritar” que permita ao usuário marcar planos como favoritos.
+- **Listagem de planos**: Exibir uma lista de planos em uma tabela com nome e descrição. A lista inicial pode ser preenchida com dados estáticos ou simulada com dados gerados aleatoriamente.
+- **Filtro por favorito**: Implementar um filtro dinâmico para exibir apenas planos marcados como favoritos.
+- **Busca por nome**: Adicionar uma barra de busca para localizar planos específicos pelo nome, com resultados em tempo real enquanto o usuário digita.
+- **Favoritar planos**: Implementar um ícone que permita ao usuário marcar planos como favoritos.
 
 ## Resultado Esperado
 
-- Uma página funcional de catálogo de planos interativo, onde o usuário pode explorar, buscar e filtrar planos de forma dinâmica.
+- Uma página funcional e interativa de catálogo de planos, onde o usuário pode explorar, buscar e filtrar os planos de maneira dinâmica e fluida, sem recarregamentos de página.
 - O usuário deve ter uma experiência fluida com manipulação direta da interface, sem recarregamentos da página.
-- A interface deve ser intuitiva e responsiva, usando HTML, CSS e JavaScript para uma experiência rica e agradável.
-- A interface deve ser semanticamente bem construída, usando frameworks de CSS como Bootstrap 5 e Tailwind.
-- O código deve ser claro e organizado, usando boas práticas para DOM e JavaScript.
+- Interface intuitiva, responsiva e semanticamente bem estruturada, utilizando HTML, CSS e JavaScript.
+- A interface deve ser semanticamente bem construída, utilizando CSS. Se tiver conhecimento em Bootstrap 5, Tailwind ou outro framework de sua escolha, pode utilizá-lo.
+- Código claro e bem organizado, seguindo boas práticas de DOM e JavaScript.
 
 ## Protótipo Funcional
 
